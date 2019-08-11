@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 793889767
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: anli
+      Dependencies:
+        Dependency_0: quanju
+    Info_1:
+      Name: quanju
+      Dependencies: {}

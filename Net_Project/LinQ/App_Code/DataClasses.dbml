@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MyDataBase" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DAIER_COMPUTER;Initial Catalog=MyDataBase;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="MyDataBaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ChuHuoMingDan" Member="ChuHuoMingDan">
+    <Type Name="ChuHuoMingDan">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Grade" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[Dia#_外径(mm)]" Member="Dia__外径_mm_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[ID_内径(mm)]" Member="ID_内径_mm_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[Thickness_厚度(mm)]" Member="Thickness_厚度_mm_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[Quantity_(pcs)]" Member="Quantity__pcs_" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FaHuoMingXi" Member="FaHuoMingXi">
+    <Type Name="FaHuoMingXi">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="发货日期" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="客户名" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="牌号" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="型号" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[数量(件）]" Member="数量_件_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[单价(元/件）]" Member="单价_元_件_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[重量（kg）]" Member="重量_kg_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[合计（元）]" Member="合计_元_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="备注" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="订单金额" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.YuShouKuan" Member="YuShouKuan">
+    <Type Name="YuShouKuan">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="日期" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="所属公司" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="金额" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="收款人" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

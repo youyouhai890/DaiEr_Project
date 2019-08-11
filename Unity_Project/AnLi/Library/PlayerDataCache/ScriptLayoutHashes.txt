@@ -1,0 +1,6 @@
+WindowsStandalone
+PlayerPath?
+D:/MyWorkspase/Unity_Project/AnLi/Assets/Resources/YuZhiTi/anli
+SceneListBegin?
+Assets/Resources/FangXiang.unity
+SceneListEnd?

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Shader_Project/29/C#_UV.unity
+  isLoaded: 1
+  isActive: 1

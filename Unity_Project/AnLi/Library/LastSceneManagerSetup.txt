@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/MyWorkspase/Unity_Project/ZhiBiao/Assets/1.unity
+  isLoaded: 1
+  isActive: 1

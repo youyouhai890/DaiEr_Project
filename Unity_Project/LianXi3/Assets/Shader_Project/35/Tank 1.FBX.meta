@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 9f2f09724118b1a45a1859e58754f44c
+timeCreated: 1550798245
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: b_backleftaxle
+    100002: b_backleftwheel_01
+    100004: b_backleftwheel_02
+    100006: b_backleftwheel_03
+    100008: b_backleftwheel_04
+    100010: b_backleftwheelthing
+    100012: b_backrightaxle
+    100014: b_backrightwheel_01
+    100016: b_backrightwheel_02
+    100018: b_backrightwheel_03
+    100020: b_backrightwheel_04
+    100022: b_backrightwheelthing
+    100024: b_frontleftaxle
+    100026: b_frontleftwheel_01
+    100028: b_frontleftwheel_02
+    100030: b_frontleftwheel_03
+    100032: b_frontleftwheelthing
+    100034: b_frontrightaxle
+    100036: b_frontrightwheel_01
+    100038: b_frontrightwheel_02
+    100040: b_frontrightwheel_03
+    100042: b_frontrightwheelthing
+    100044: b_mainbody
+    100046: b_mainturret_barrelrot
+    100048: b_mainturret_rot
+    100050: b_Root
+    100052: b_smallgun_barrel
+    100054: b_smallgun_turret
+    100056: b_smallgun_turret_mainrot
+    100058: Cobra_tank
+    100060: Dummy001
+    100062: //RootNode
+    400000: b_backleftaxle
+    400002: b_backleftwheel_01
+    400004: b_backleftwheel_02
+    400006: b_backleftwheel_03
+    400008: b_backleftwheel_04
+    400010: b_backleftwheelthing
+    400012: b_backrightaxle
+    400014: b_backrightwheel_01
+    400016: b_backrightwheel_02
+    400018: b_backrightwheel_03
+    400020: b_backrightwheel_04
+    400022: b_backrightwheelthing
+    400024: b_frontleftaxle
+    400026: b_frontleftwheel_01
+    400028: b_frontleftwheel_02
+    400030: b_frontleftwheel_03
+    400032: b_frontleftwheelthing
+    400034: b_frontrightaxle
+    400036: b_frontrightwheel_01
+    400038: b_frontrightwheel_02
+    400040: b_frontrightwheel_03
+    400042: b_frontrightwheelthing
+    400044: b_mainbody
+    400046: b_mainturret_barrelrot
+    400048: b_mainturret_rot
+    400050: b_Root
+    400052: b_smallgun_barrel
+    400054: b_smallgun_turret
+    400056: b_smallgun_turret_mainrot
+    400058: Cobra_tank
+    400060: Dummy001
+    400062: //RootNode
+    2100000: cobra_tank2
+    2100002: cobra_tank1
+    2300000: Cobra_tank
+    3300000: Cobra_tank
+    4300000: Cobra_tank
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

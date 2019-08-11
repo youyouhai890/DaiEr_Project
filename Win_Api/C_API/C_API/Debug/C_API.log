@@ -1,0 +1,9 @@
+﻿  XiTongXinXi.cpp
+d:\myworkspase\win_api\c_api\c_api\xitongxinxi.cpp(13): warning C4996: 'GetVersionExA': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: 参见“GetVersionExA”的声明
+d:\myworkspase\win_api\c_api\c_api\xitongxinxi.cpp(56): warning C4477: “printf”: 格式字符串“%.8X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“LPVOID”
+d:\myworkspase\win_api\c_api\c_api\xitongxinxi.cpp(56): warning C4476: "printf": 格式说明符中的类型字段字符“ ”未知
+d:\myworkspase\win_api\c_api\c_api\xitongxinxi.cpp(57): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\myworkspase\win_api\c_api\c_api\xitongxinxi.cpp(57): note: 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+  C_API.vcxproj -> D:\MyWorkspase\Win_Api\C_API\Debug\C_API.exe
+  C_API.vcxproj -> D:\MyWorkspase\Win_Api\C_API\Debug\C_API.pdb (Full PDB)

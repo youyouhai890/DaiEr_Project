@@ -1,0 +1,9 @@
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\bin\Debug\SanWeiKongZhi.exe.config
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\bin\Debug\SanWeiKongZhi.exe
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\bin\Debug\SanWeiKongZhi.pdb
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\obj\Debug\SanWeiKongZhi.csprojResolveAssemblyReference.cache
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\obj\Debug\SanWeiKongZhi.Properties.Resources.resources
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\obj\Debug\SanWeiKongZhi.csproj.GenerateResource.Cache
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\obj\Debug\SanWeiKongZhi.exe
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\obj\Debug\SanWeiKongZhi.pdb
+D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\SanWeiKongZhi\obj\Debug\SanWeiKongZhi.Form1.resources
