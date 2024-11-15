@@ -1,9 +1,0 @@
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\bin\Debug\XiangLiangKongZhi.exe.config
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\bin\Debug\XiangLiangKongZhi.exe
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\bin\Debug\XiangLiangKongZhi.pdb
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\obj\Debug\XiangLiangKongZhi.csprojResolveAssemblyReference.cache
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\obj\Debug\XiangLiangKongZhi.Form1.resources
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\obj\Debug\XiangLiangKongZhi.Properties.Resources.resources
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\obj\Debug\XiangLiangKongZhi.csproj.GenerateResource.Cache
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\obj\Debug\XiangLiangKongZhi.exe
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\XiangLiangKongZhi\obj\Debug\XiangLiangKongZhi.pdb

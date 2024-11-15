@@ -1,9 +1,0 @@
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\bin\Debug\LiFangTi.exe.config
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\bin\Debug\LiFangTi.exe
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\bin\Debug\LiFangTi.pdb
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\obj\Debug\LiFangTi.csprojResolveAssemblyReference.cache
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\obj\Debug\LiFangTi.Form1.resources
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\obj\Debug\LiFangTi.Properties.Resources.resources
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\obj\Debug\LiFangTi.csproj.GenerateResource.Cache
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\obj\Debug\LiFangTi.exe
-D:\MyWorkspase\Cshape_Project\XiangLiangKongZhi\LiFangTi\obj\Debug\LiFangTi.pdb
