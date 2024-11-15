@@ -1,5 +1,0 @@
-﻿  ZhiZhenYingYong.cpp
-d:\myworkspase\c_project\c_jichu\c_jichu\zhizhen\zhizhenyingyong.cpp(9): warning C4273: “_errno”: dll 链接不一致
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(29): note: 参见“_errno”的前一个定义
-  ZhiZhen.vcxproj -> D:\MyWorkspase\C_Project\C_JiChu\C_JiChu\Debug\ZhiZhen.exe
-  ZhiZhen.vcxproj -> D:\MyWorkspase\C_Project\C_JiChu\C_JiChu\Debug\ZhiZhen.pdb (Full PDB)

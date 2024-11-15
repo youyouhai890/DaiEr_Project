@@ -1,6 +1,0 @@
-﻿  ShuChu.cpp
-d:\myworkspase\c_project\c_jichu\c_jichu\c_jichu\shuchu.cpp(7): warning C4305: “初始化”: 从“double”到“float”截断
-  JiChu_1.cpp
-  正在生成代码...
-ShuChu.obj : error LNK2005: _main 已经在 JiChu_1.obj 中定义
-D:\MyWorkspase\C_Project\C_JiChu\C_JiChu\Debug\C_JiChu.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
